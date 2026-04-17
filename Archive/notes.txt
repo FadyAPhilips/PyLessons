@@ -1,0 +1,8 @@
+Making a function with while loops
+Adding To a list
+taking in an input
+adding using inputs and loops
+
+Q1
+Create a function that takes in a list of strings and a string. the function should go through the list and count how many times the 
+given string can be found and return the answer.
