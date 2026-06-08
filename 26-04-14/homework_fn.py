@@ -6,7 +6,6 @@ numbers = [3, 15, 7, 22, 4, 11]
 # Expected output: [15, 22, 11]
 
 
-
 # Q2
 # You have a list of scores from a game.
 # Write a function that takes the list and returns the highest score.
