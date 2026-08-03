@@ -24,7 +24,7 @@
 # ────────────────────────────────────────────────────────────
  
 # Q1 - Write the data type of each value in the comment.      (5 marks)
-a = 100           # type:
+a = 100           # type: 
 b = "100"         # type:
 c = 100.0         # type:
 d = False         # type:
@@ -151,7 +151,7 @@ else:
 x = 10
 y = 3
  
-if x > 5:
+if x == 5:
     if y > 5:
         print("A")
     else:
@@ -257,8 +257,15 @@ print(count)
 #       --- Times Table for 2 ---
 #       2 x 1 = 2
 #       ...
- 
- 
+
+
+for i in range(1, 6):
+    # print a whole times table
+    print("")
+    print(f"--- Times Table for {i} ---")
+    for j in range(1, 11):
+        product = i * j
+        print(f"{i} x {j} = {product}")
  
  
 # ────────────────────────────────────────────────────────────
