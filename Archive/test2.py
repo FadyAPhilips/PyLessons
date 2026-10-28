@@ -11,6 +11,7 @@
 #       2 x 1 = 2
 #       ...
 
+num = 0
 
 for i in range(1, 6):
     # print a whole times table
